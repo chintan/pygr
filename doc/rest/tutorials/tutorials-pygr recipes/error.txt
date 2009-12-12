@@ -1,0 +1,48 @@
+
+This are the error detected while running program on window vista based platform using python 2.5 version.
+Location of files are http://github.com/chintan/pygr/tree/Assign1/doc/rest/tutorials/tutorials-pygrrecipes
+
+Folder name: Xmlrpc
+-client1.py and client2.py
+-Publishing1.py and 2.py 
+And all ex1, ex2...
+Output: Error in Module 
+
+Folder name: Worldbase2
+Output:name undefined error and import module error
+
+Folder name: annotation-yeast
+Output: key Error for all
+
+Folder name: db
+Output:Operational Error
+(_mysql_exceptions.OperationalError: (2005, "Unknown MySQL server host 'genome-mysql.cse.ucsc.edu'(11004)")
+
+
+Folder: graphquery
+Output:
+import module load_alignment error for 1st program
+Key error for second program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
